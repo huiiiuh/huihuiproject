@@ -1,14 +1,3 @@
-"""
-Copyright(C),2017-2022,宁静之盾
-
-Summary: 根据请求上下文和当前异常类获取系统状态码
-
-Description:
-
-Example:
-
-2022/5/23, 邹辉,
-"""
 from commons.stat.stat_mapping import MODULE_MAPPING
 
 

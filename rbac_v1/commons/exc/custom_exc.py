@@ -1,16 +1,3 @@
-"""
-Copyright(C),2017-2022,宁静之盾
-
-Summary: 系统中全局异常处理类
-
-Description:
-
-Example:
-
-2022/5/23, 邹辉,
-"""
-
-
 class SystemGlobalException(Exception):
     """
     全局自定义异常

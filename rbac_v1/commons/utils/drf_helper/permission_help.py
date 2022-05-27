@@ -1,14 +1,4 @@
-"""
-Copyright(C),2017-2022,宁静之盾
 
-Summary: 全局权限控制
-
-Description:
-
-Example:
-
-2022/5/25, 邹辉,
-"""
 import re
 
 from django.conf import settings

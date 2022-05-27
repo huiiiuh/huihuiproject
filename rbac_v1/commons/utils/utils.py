@@ -1,14 +1,4 @@
-"""
-Copyright(C),2017-2022,宁静之盾
 
-Summary: 工具类
-
-Description:
-
-Example:
-
-2022/5/24, 邹辉,
-"""
 import time
 
 from uuid import uuid4

@@ -1,14 +1,4 @@
-"""
-Copyright(C),2017-2022,宁静之盾
 
-Summary: 自动生成URL
-
-Description:
-
-Example:
-
-2022/5/25, 邹辉,
-"""
 from collections import OrderedDict
 
 from django.utils.module_loading import import_string

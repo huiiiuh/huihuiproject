@@ -1,14 +1,4 @@
-"""
-Copyright(C),2017-2022,宁静之盾
 
-Summary: 全局异常捕获
-
-Description:
-
-Example:
-
-2022/5/23, 邹辉,
-"""
 import traceback
 
 from rest_framework.exceptions import ValidationError, PermissionDenied

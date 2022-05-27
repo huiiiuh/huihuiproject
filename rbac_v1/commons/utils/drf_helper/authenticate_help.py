@@ -1,14 +1,3 @@
-"""
-Copyright(C),2017-2022,宁静之盾
-
-Summary: 全局认证
-
-Description:
-
-Example:
-
-2022/5/24, 邹辉,
-"""
 
 import datetime
 

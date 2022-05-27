@@ -1,14 +1,4 @@
-"""
-Copyright(C),2017-2022,宁静之盾
 
-Summary: 用户业务处理类
-
-Description:
-
-Example:
-
-2022/5/24, 邹辉,
-"""
 
 from django.db import transaction
 from rest_framework import serializers
